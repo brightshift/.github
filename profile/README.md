@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Brightshift Logo">
+  <img src="profile/logo.jpg" alt="Brightshift Logo">
 </p>
 
 <h1 align="center">Brightshift</h1>
