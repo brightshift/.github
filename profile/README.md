@@ -47,6 +47,7 @@ We're always looking for talented individuals who share our vision of transformi
 ### 📫 Connect With Us
 
 - Website: [brightshift.app](https://brightshift.app)
+- [Instagram](https://www.instagram.com/brightshift.app/)
 - [Facebook](https://www.facebook.com/people/Brightshift/61570333376956)
 - [LinkedIn](https://www.linkedin.com/company/brightshift-app)
 - [X.com](https://x.com/Brightshift_app)
