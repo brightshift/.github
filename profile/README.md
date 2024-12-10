@@ -24,7 +24,6 @@ Empowering professionals to discover, apply, and succeed effortlessly.
 ### 🚀 Future Roadmap
 
 - Advanced AI-driven career development tools
-- Recruiter portal for direct job postings
 - Integration with major professional networks
 - Enhanced analytics and insights
 
