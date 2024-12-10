@@ -15,18 +15,6 @@ Brightshift is revolutionizing the job search experience with an all-in-one SaaS
 
 Empowering professionals to discover, apply, and succeed effortlessly.
 
-### 🌟 Key Features
-
-- **Unified Job Search**: Aggregate job listings from multiple platforms in one place
-- **Application Tracking**: Monitor your job application status and progress
-- **Smart Tools** (Coming Soon):
-  - AI-powered Resume Builder and Reviewer
-  - Professional CV Templates
-  - Portfolio Website Creator
-  - Mock Interview Preparation
-  - LinkedIn Profile Optimization
-  - And many more!
-
 ### 💫 Core Values
 
 - **Simplicity**: Making complex career processes intuitive
